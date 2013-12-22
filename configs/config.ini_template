@@ -1,0 +1,5 @@
+[DB]
+name = login
+login = login
+passwd = wa1
+driver = mysql
